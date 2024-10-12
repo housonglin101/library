@@ -1,2 +1,2 @@
-# library2
-个人使用的第二个库
+# library
+个人使用的Java库
